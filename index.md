@@ -81,9 +81,9 @@ Final grade cutoff:
 | 19 | 10/29/24 | Exam 2 Review                |                          |
 | 20 | 10/31/24 | Exam 2                       |                          |
 | 21 | 11/05/24 | Network Security             | Final Project Proposal   |
-| 22 | 11/07/24 | Access Control 1             |                          |
-| 23 | 11/12/24 | Access Control 2             | Lab 5 & Assessment Due   |
-| 24 | 11/14/24 | Intrusion Detection          |                          |
+| 22 | 11/07/24 | Lab Walk Through             |                          |
+| 23 | 11/12/24 | Access Control 1             | Lab 5 & Assessment Due   |
+| 24 | 11/14/24 | Access Control 2             |                          |
 | 25 | 11/19/24 | AI and Security 1            | Lab 6 & Assessment Due   |
 | 26 | 11/21/24 | AI and Security 2            |                          |
 | -  | 11/26/24 | THANKSGIVING                 |                          |
@@ -124,14 +124,14 @@ Academic integrity includes a commitment by all members of the University commun
 
 ## DISABILITY ACCOMMODATION STATEMENT
 Penn State welcomes students with disabilities into the University’s educational programs. Every Penn State campus has an office for students with disabilities. Student Disability Resources (SDR) website provides contact information for every Penn State campus
-(http://equity.psu.edu/sdr/disability-coordinator). For further information, please visit Student Disability Resources website
+(http://equity.psu.edu/sdr/disability-coordinator). For further information, please visit the Student Disability Resources website
 (http://equity.psu.edu/sdr/).
 
 In order to receive consideration for reasonable accommodations, you must contact the appropriate disability services office at the campus where you are officially enrolled, participate in an intake interview, and provide documentation: See documentation guidelines
 (http://equity.psu.edu/sdr/guidelines). If the documentation supports your request for reasonable accommodations, your campus disability services office will provide you with an accommodation letter. Please share this letter with your instructors and discuss the accommodations with them as early as possible. You must follow this process for every semester that you request accommodations.
 
 ## COUNSELING AND PSYCHOLOGICAL SERVICES STATEMENT
-Many students at Penn State face personal challenges or have psychological needs that may interfere with their academic progress, social development, or emotional wellbeing. The university offers a variety of confidential services to help you through difficult times, including individual and group counseling, crisis intervention, consultations, online chats, and mental health screenings. These services are provided by staff who welcome all students and embrace a philosophy respectful of clients’ cultural and religious backgrounds, and sensitive to differences in race, ability, gender identity and sexual orientation.
+Many students at Penn State face personal challenges or have psychological needs that may interfere with their academic progress, social development, or emotional well-being. The university offers a variety of confidential services to help you through difficult times, including individual and group counseling, crisis intervention, consultations, online chats, and mental health screenings. These services are provided by staff who welcome all students and embrace a philosophy respectful of clients’ cultural and religious backgrounds, and sensitive to differences in race, ability, gender identity and sexual orientation.
 
 Counseling and Psychological Services at University Park  (CAPS)
 (http://studentaffairs.psu.edu/counseling/): 814-863-0395
