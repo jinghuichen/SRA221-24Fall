@@ -42,7 +42,7 @@ Grades will be computed based on the following factors:
 - Homework & Lab Assessment    25%
 - Exams                        20%
 - Group Project                20% 
-- Quiz                         10% 
+- Quiz & Attendance            10% 
 
 Final grade cutoff:
 - A [93%, 100%]
@@ -100,13 +100,13 @@ The instructor reserves the right to make any changes.
  
  
 ## Attendance
-- There is not a traditional "attendance". We will have regular in-class quizes to check attendance. The intent for this is to assess your knowledge of the material and hold you accountable for attending.
+- Attendance is important for this course. We will use regular in-class quizzes or questionnaires to check attendance. 
 
 ## Group Project
 - Everyone in this class is expected to explore some special topics in information security beyond the content of this class (or an extension of what is covered in class).
 - It is expected to be done by 2-3 people groups (no larger than 3). 
 - The topic of the project can be:
-   - A cool demo of applying information security in real world applications.
+   - A cool demo of applying information security in real-world applications.
    - A nice introduction towards new emerging security topics (e.g., blockchain, decentralized computing, differential privacy, stenography, cloud encryption, zero-knowlodge proof, LLM security etc.)
    - An interesting project demonstrates the importance of protecting information security.
 
