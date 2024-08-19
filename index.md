@@ -78,8 +78,8 @@ Final grade cutoff:
 | 16 | 10/17/24 | Pub Key Cryptography 1       |                          |
 | 17 | 10/22/24 | Pub Key Cryptography 2       |                          |
 | 18 | 10/24/24 | Pub Key Infra                | HW 2 Due                 |
-| 19 | 10/29/24 | Exam 2 Review                | Final Project Proposal   |
-| 20 | 10/31/24 | Exam 2                       |                          |
+| 19 | 10/29/24 | Exam 2 Review                |                          |
+| 20 | 10/31/24 | Exam 2                       | Final Project Proposal   |
 | 21 | 11/05/24 | Network Security             |                          |
 | 22 | 11/07/24 | Access Control 1             | Lab 5 & Assessment Due   |
 | 23 | 11/12/24 | Access Control 2             |                          |
