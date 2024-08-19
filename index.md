@@ -79,17 +79,17 @@ Final grade cutoff:
 | 17 | 10/22/24 | Pub Key Cryptography 2       |                          |
 | 18 | 10/24/24 | Pub Key Infra                | HW 2 Due                 |
 | 19 | 10/29/24 | Exam 2 Review                |                          |
-| 20 | 10/31/24 | Exam 2                       | Final Project Proposal   |
-| 21 | 11/05/24 | Network Security             |                          |
-| 22 | 11/07/24 | Access Control 1             | Lab 5 & Assessment Due   |
-| 23 | 11/12/24 | Access Control 2             |                          |
-| 24 | 11/14/24 | Intrusion Detection          | Lab 6 & Assessment Due   |
-| 25 | 11/19/24 | AI and Security 1            |                          |
-| 26 | 11/21/24 | AI and Security 2            | Lab 7 & Assessment Due   |
+| 20 | 10/31/24 | Exam 2                       |                          |
+| 21 | 11/05/24 | Network Security             | Final Project Proposal   |
+| 22 | 11/07/24 | Access Control 1             |                          |
+| 23 | 11/12/24 | Access Control 2             | Lab 5 & Assessment Due   |
+| 24 | 11/14/24 | Intrusion Detection          |                          |
+| 25 | 11/19/24 | AI and Security 1            | Lab 6 & Assessment Due   |
+| 26 | 11/21/24 | AI and Security 2            |                          |
 | -  | 11/26/24 | THANKSGIVING                 |                          |
 | -  | 11/28/24 | THANKSGIVING                 |                          |
 | 27 | 12/03/24 | Data Privacy 1               |                          |
-| 28 | 12/05/24 | Data Privacy 2               | Lab 8 & Assessment Due   |
+| 28 | 12/05/24 | Data Privacy 2               | Lab 7 & Assessment Due   |
 | 29 | 12/10/24 | Final Project Presentation 1 |                          |
 | 30 | 12/12/24 | Final Project Presentation 2 |                          |
 | -  | 12/16/24 |                              | Final Project Report Due |
