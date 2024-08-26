@@ -19,10 +19,10 @@ SRA 221 focuses on providing an understanding of the overview of information sec
 ## Instructor Team
 
 - Instructor: [Jinghui Chen](https://jinghuichen.github.io/) (Email: jzc5917 at psu dot edu) 
-- Office hours: TBD Westgate E380 
+- Office hours: Tue 2-3pm @Westgate E380 
 
 - TA: Tianrong Zhang  (Email: tbz5156@psu.edu)
-    - Office hours: TBD
+    - Office hours: Thu 8-9pm @Zoom https://psu.zoom.us/j/2211888631
 - IA: Anurag Vankadara (Email: vja5158@psu.edu)
     - Office hours: TBD
  
